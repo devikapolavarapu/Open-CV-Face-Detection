@@ -17,17 +17,15 @@ This project uses OpenCV’s pre-trained Haar Cascade classifier to detect human
 
 ## 📂 Project Structure
 Open-CV-Face-Detection/
-├── main.py
-├── .gitignore
-
-bash
-Copy code
+├─>main.py
+├─> .gitignore
 
 ## ▶️ How to Run
 
 1. Clone the repository
 
 git clone https://github.com/devikapolavarapu/Open-CV-Face-Detection.git
+
 cd Open-CV-Face-Detection
 
 2. Create and activate virtual environment
