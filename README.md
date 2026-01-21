@@ -48,7 +48,7 @@ Press q to exit the webcam window.
 ⭐ If you like this project, feel free to star the repository!
 
 
-<img width="392" height="448" alt="image" src="https://github.com/user-attachments/assets/ecca37e7-3fee-45e3-bdfa-970a09053a2a" />
+<img width="270" height="226" alt="image" src="https://github.com/user-attachments/assets/efa77626-0472-486f-be27-122268288a1b" />
 
 
 
