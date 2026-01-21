@@ -24,22 +24,22 @@ Open-CV-Face-Detection/
 
 1. Clone the repository
 
-git clone https://github.com/devikapolavarapu/Open-CV-Face-Detection.git
+```git clone https://github.com/devikapolavarapu/Open-CV-Face-Detection.git```
 
 cd Open-CV-Face-Detection
 
 2. Create and activate virtual environment
 
-python -m venv venv
-venv\Scripts\activate
+```python -m venv venv```
+```venv\Scripts\activate```
 
 3. Install dependencies
 
-pip install opencv-python numpy
+```pip install opencv-python numpy```
 
 4. Run the project
 
-python main.py
+```python main.py```
 
 Press q to exit the webcam window.
 
